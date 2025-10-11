@@ -1,0 +1,18 @@
+tensorflow==2.15.0
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+
+# Image handling
+Pillow==10.3.0
+
+# Scikit-learn for train_test_split or metrics
+scikit-learn==1.5.1
+
+# Optional (only if you used these)
+opencv-python==4.10.0.84
+seaborn==0.13.2
+
+# Jupyter or Colab support (optional)
+ipykernel==6.29.5
+s
